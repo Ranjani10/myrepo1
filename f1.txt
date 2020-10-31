@@ -1,4 +1,8 @@
 This is file1
 .
 Learning github.
+<<<<<<< HEAD
 modified in br1
+=======
+modified in br2
+>>>>>>> br2
