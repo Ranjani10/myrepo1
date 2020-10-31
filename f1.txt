@@ -2,7 +2,13 @@ This is file1
 .
 Learning github.
 <<<<<<< HEAD
+<<<<<<< HEAD
 modified in br1
 =======
 modified in br2
 >>>>>>> br2
+=======
+file modified in br1.
+file modified in br2.
+file modified in br3.
+>>>>>>> br3
